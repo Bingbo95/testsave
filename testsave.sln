@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "testsave", "testsave.vfproj", "{9E7CC1B0-4677-45EA-9636-993CE4025761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7CC1B0-4677-45EA-9636-993CE4025761}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E7CC1B0-4677-45EA-9636-993CE4025761}.Debug|x86.Build.0 = Debug|Win32
+		{9E7CC1B0-4677-45EA-9636-993CE4025761}.Release|x86.ActiveCfg = Release|Win32
+		{9E7CC1B0-4677-45EA-9636-993CE4025761}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E392B28-2A7E-494A-8A3A-57A005AE32BD}
+	EndGlobalSection
+EndGlobal
